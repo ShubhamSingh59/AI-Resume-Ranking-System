@@ -1,0 +1,562 @@
+{
+  "batch_summary": {
+    "total_resumes": 50,
+    "successfully_parsed": 50,
+    "eligible": 0,
+    "rejected": 50,
+    "failed_or_unreadable": 0
+  },
+  "ranked_candidates": [],
+  "rejected_candidates": [
+    {
+      "candidate": "Shivam Raj",
+      "email": "shivam2kraj@gmail.com",
+      "file_name": "candidate_02.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Vishwas Badiger",
+      "email": "Vishwasbadiger240@gmail.com",
+      "file_name": "candidate_05.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Yuvaraj R",
+      "email": "yuvi.2003kce@gmail.com",
+      "file_name": "candidate_04.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Agam Jain",
+      "email": "jainagam4@gmail.com",
+      "file_name": "candidate_03.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Kartikay Sinha",
+      "email": "kartikay.sinha17@gmail.com",
+      "file_name": "candidate_01.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "M Sai Kushith",
+      "email": "msaikushith718@gmail.com",
+      "file_name": "candidate_06.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Jyandeep Baishya",
+      "email": "craftzyan@gmail.com",
+      "file_name": "candidate_07.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Arjun Kumar",
+      "email": "roy.prajapat.143@gmail.com",
+      "file_name": "candidate_08.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Krishan Kant",
+      "email": "krishankantptu@gmail.com",
+      "file_name": "candidate_09.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Abhinav",
+      "email": "abhinavmishra3322@gmail.com",
+      "file_name": "candidate_10.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Shubhanshu Navadiya",
+      "email": "subhnavadiya@gmail.com",
+      "file_name": "candidate_12.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "/",
+      "email": "mdazizul8741@gmail.com",
+      "file_name": "candidate_11.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Jaya Nandi",
+      "email": "jaya85300@gmail.com",
+      "file_name": "candidate_14.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Harsha A",
+      "email": "harshaarun2608@gmail.com",
+      "file_name": "candidate_15.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Yash Maini",
+      "email": "mainiyash2@gmail.com",
+      "file_name": "candidate_13.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Priyanshu Kumar",
+      "email": "krpriyanshu2805@gmail.com",
+      "file_name": "candidate_16.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Gourab Das",
+      "email": "gourabdas1307@gmail.com",
+      "file_name": "candidate_17.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Harshit Kumar Mishra",
+      "email": "jmd.harshitmishra@gmail.com",
+      "file_name": "candidate_18.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Candidate 19",
+      "email": "pvjayavardhan6@gmail.com",
+      "file_name": "candidate_19.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Candidate 20",
+      "email": "priyaraguraman29@gmail.com",
+      "file_name": "candidate_20.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Summary",
+      "email": "manojkumar.k.r0904@gmail.com",
+      "file_name": "candidate_21.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Prajwal A S",
+      "email": "prajwalas8999@gmail.com",
+      "file_name": "candidate_22.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Annisha S",
+      "email": "annishasaravanan83@gmail.com",
+      "file_name": "candidate_23.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Dornipadu Karthika Chaitrika",
+      "email": "dornipadukarthi@gmail.com",
+      "file_name": "candidate_24.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Atul Kumardehradun, Uttarakhand, India",
+      "email": "atulofficial02@gmail.com",
+      "file_name": "candidate_25.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Thejeshwaar Paasila",
+      "email": "thejeshwaarp@gmail.com",
+      "file_name": "candidate_26.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Gayathri Palraj",
+      "email": "gayathri.2842004@gmail.com",
+      "file_name": "candidate_27.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Candidate 28",
+      "email": "Shaiksultanasumaiya623@gmail.com",
+      "file_name": "candidate_28.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Vikram Madhyasta",
+      "email": "vikrammadyasta@gmail.com",
+      "file_name": "candidate_29.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "V Sree Raghu Vardhan",
+      "email": "vardhanvsr2004@gmail.com",
+      "file_name": "candidate_30.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Shreya Chauhan",
+      "email": "chauhanshreya140@gmail.com",
+      "file_name": "candidate_31.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Mukul Pal",
+      "email": "mukulpal0333@gmail.com",
+      "file_name": "candidate_32.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Candidate 33",
+      "email": "vaibhavwakde266@gmail.com",
+      "file_name": "candidate_33.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Nisarga H. S.",
+      "email": "nisarga20suresh@gmail.com",
+      "file_name": "candidate_34.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Prathamesh",
+      "email": "prathameshpatil330@gmail.com",
+      "file_name": "candidate_35.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Saif Ali Nagori",
+      "email": "saifalinagori78@gmail.com",
+      "file_name": "candidate_36.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Aditi Kala",
+      "email": "aditi25.kala@gmail.com",
+      "file_name": "candidate_37.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Pavani A",
+      "email": "pavani10112004@gmail.com",
+      "file_name": "candidate_38.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Vivek Shekhawat",
+      "email": "vivekshekhawatofficial1592002@gmail.com",
+      "file_name": "candidate_39.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Raj Thumar",
+      "email": "thumarraj999@gmail.com",
+      "file_name": "candidate_40.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Hari Shanker Sharma",
+      "email": "harishankersharma648@gmail.com",
+      "file_name": "candidate_41.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "1",
+      "email": "anjalipatil1220@gmail.com",
+      "file_name": "candidate_42.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Arunima Saha",
+      "email": "arunimasaha11@gmail.com",
+      "file_name": "candidate_43.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Vivek Chimnani",
+      "email": "vivekchimnani4231@gmail.com",
+      "file_name": "candidate_44.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Parshuram",
+      "email": "parshuramkumarofficial725@gmail.com",
+      "file_name": "candidate_45.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Aabhar Gupta",
+      "email": "aabhargupta2310@gmail.com",
+      "file_name": "candidate_46.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Kiran",
+      "email": "kirnaregal7@gmail.com",
+      "file_name": "candidate_47.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Nidhi Km",
+      "email": "nidhikmgowda24@gmail.com",
+      "file_name": "candidate_48.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Aswin Raj R",
+      "email": "aswinrajr12@gmail.com",
+      "file_name": "candidate_49.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    },
+    {
+      "candidate": "Nevil Jasmin Mehta",
+      "email": "nevilmehta5@gmail.com",
+      "file_name": "candidate_50.pdf",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": []
+    }
+  ]
+}
